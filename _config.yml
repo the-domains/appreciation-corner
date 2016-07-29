@@ -1,0 +1,14 @@
+name: Appreciation Corner
+layout_spectrum: 0.8937018214857364
+typography_spectrum: 0.18096220525353446
+color:
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.4332784151939404
+  lightness: 0.9391618146362183
+  saturation: 0.15277773800768935
+  rhythmicContrast: 0.7157018100539336
